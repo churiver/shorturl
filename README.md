@@ -10,4 +10,4 @@ TODO List
 ================
 1. Improve the result of an ineligible URL.
 2. Provide option page to choose among different URL-shorten services.
-3. Replace current URL-shorten API (tiny-url) with a batter one.
+3. Replace current URL-shorten API (tiny-url) with a better one.
